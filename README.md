@@ -20,12 +20,18 @@ The analysis focuses on revenue performance, profit margins, sales quantity tren
 ## 📂 Dataset
 
 The dataset includes:
--https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_products.csv 
--https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_markets.csv
+
+-https://github.com/kaifo3301/Sales-insights-
+dashboard/blob/main/sales_products.csv
+
+-https://github.com/kaifo3301/Sales-
+insights-dashboard/blob/main/sales_markets.csv
+
 - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_date.csv
 
 - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_customers.csv
 
+- https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_transactions.csv
 
 ## 📊 Dashboard Features
 
