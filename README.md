@@ -93,6 +93,6 @@ The dataset includes:
        
 Ali Arsalan
 📌 Data Analyst | Power BI | SQL |           Excel | Python  
-🔗 [](#) | [GitHub] 
+🔗 [LinkedIn](#) | [GitHub] 
 
 
