@@ -65,6 +65,7 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
+<img width="943" height="553" alt="17560285723051856418344815436114" src="https://github.com/user-attachments/assets/eae967d1-144b-408a-a362-714928ed7494" />
 
 
 ## 📌 How to Use
