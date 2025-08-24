@@ -77,9 +77,10 @@ and here is a live dashboard:
 <img width="2048" height="1314" alt="17560566208762315444964482817235" src="https://github.com/user-attachments/assets/8b1b72de-3d9f-4f3c-a282-17c227880ca7" />
 
 
+<img width="2048" height="1314" alt="17560569400785927120702932794864" src="https://github.com/user-attachments/assets/6127c1af-25b7-452b-b2a2-328e8da491ee" />
 
 
-<img width="1329" height="622" alt="17560288526787597768396680258210" src="https://github.com/user-attachments/assets/797ca6f0-be50-40d1-a694-14625becb2f9" />
+
 
 <img width="1327" height="611" alt="17560289456066332626097568058948" src="https://github.com/user-attachments/assets/41ff391e-843d-4290-a25c-0b7dd0cfe385" />
 
