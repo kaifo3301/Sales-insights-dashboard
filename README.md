@@ -71,6 +71,8 @@ The dataset includes:
 
 <img width="1329" height="622" alt="17560288526787597768396680258210" src="https://github.com/user-attachments/assets/797ca6f0-be50-40d1-a694-14625becb2f9" />
 
+<img width="1327" height="611" alt="17560289456066332626097568058948" src="https://github.com/user-attachments/assets/41ff391e-843d-4290-a25c-0b7dd0cfe385" />
+
 ## 📌 How to Use
 
 1. Open the .pbix file in Power BI Desktop.  
