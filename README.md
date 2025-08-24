@@ -21,9 +21,6 @@ The analysis focuses on revenue performance, profit margins, sales quantity tren
 
 The dataset includes:
 
--https://github.com/kaifo3301/Sales-insights-
-dashboard/blob/main/sales_products.csv
-
 
 -https://github.com/kaifo3301/Sales 
 insights-dashboard/blob/main/sales_markets.csv
@@ -34,6 +31,7 @@ insights-dashboard/blob/main/sales_markets.csv
 
 - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_transactions.csv
 
+https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_products.csv
 ## 📊 Dashboard Features
 
 ✔️ Revenue & Sales Overview – Track total sales revenue and quantity trends.  
