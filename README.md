@@ -20,7 +20,7 @@ The analysis focuses on revenue performance, profit margins, sales quantity tren
 ## 📂 Dataset
 
 The dataset includes:
-- Revenue: ₹984.8M total sales revenue.  
+-https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_products.csv 
 -https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_markets.csv
 - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_date.csv
 
