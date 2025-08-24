@@ -24,7 +24,9 @@ The dataset includes:
 - Sales Quantity: 2.4M units sold across multiple markets.  
 - Markets Analyzed: Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, Kochi, Chennai, Kanpur, Hyderabad, Patna, Lucknow, Surat, Bhubaneswar, Bangalore, and more.  
 - Time Frame: 2018 – 2020.  
-- Dimensions: Customers, Products, Markets, Time (Year & Month).  
+- Dimensions: Customers, Products, Markets, Time (Year & Month).
+
+- https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_customers.csv
 
 
 ## 📊 Dashboard Features
