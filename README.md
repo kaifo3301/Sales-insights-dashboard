@@ -80,9 +80,8 @@ and here is a live dashboard:
 <img width="2048" height="1314" alt="17560569400785927120702932794864" src="https://github.com/user-attachments/assets/6127c1af-25b7-452b-b2a2-328e8da491ee" />
 
 
+<img width="2048" height="1314" alt="1756057055591397386398433785854" src="https://github.com/user-attachments/assets/6a846d55-9401-4781-a7eb-7f16c3f94ef6" />
 
-
-<img width="1327" height="611" alt="17560289456066332626097568058948" src="https://github.com/user-attachments/assets/41ff391e-843d-4290-a25c-0b7dd0cfe385" />
 
 ## 📌 How to Use
 
