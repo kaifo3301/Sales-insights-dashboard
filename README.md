@@ -32,9 +32,9 @@ The dataset includes:
 
  - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/sales_markets.csv
 
-and here is a live dashboard:
+and here is a pbix 📂 file 
 
- - https://github.com/kaifo3301/Sales-insights-dashboard/raw/refs/heads/main/Sales%20Insights%20data%20analysis-AtliQ2.pbix
+ - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/Sales%20Insights%20data%20analysis-AtliQ2.pbix
  
 ## 📊 Dashboard Features
 
