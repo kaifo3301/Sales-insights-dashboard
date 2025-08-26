@@ -34,7 +34,7 @@ The dataset includes:
 
 and here is a live dashboard:
 
- - https://github.com/kaifo3301/Sales-insights-dashboard/blob/main/Revenue%20Insights%20in%20Hospitality%20Domain.pbix
+ - https://github.com/kaifo3301/Sales-insights-dashboard/raw/refs/heads/main/Sales%20Insights%20data%20analysis-AtliQ2.pbix
  
 ## 📊 Dashboard Features
 
