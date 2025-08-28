@@ -103,6 +103,6 @@ and here is a pbix 📂 file
        
 Ali Arsalan
 📌 Data Analyst | Power BI | SQL |           Excel | Python  
-🔗 [LinkedIn](#) | [GitHub] 
+🔗 [LinkedIn](#) | [GitHub]()
 
 
